@@ -1,0 +1,48 @@
+{
+    "pets": [
+      {
+        "nome": "Pingo",
+        "tipo": "cachorro",
+        "idade": 4,
+        "raca": "",
+        "peso": 3,
+        "tutor": "Ana",
+        "contato": "(81) 98899-4545",
+        "vacinado": false,
+        "servicos": "['banha', 'tosa', corta unha']"
+      },
+      {
+        "nome": "chica",
+        "tipo": "coelho",
+        "idade": 3,
+        "raca": "mini lop",
+        "peso": 2,
+        "tutor": "David",
+        "contato": "(81) 98349-8484",
+        "vacinado": true,
+        "servicos": "['banha', 'tosa', corta unha']"
+      },
+      {
+        "nome": "Mel",
+        "tipo": "gata",
+        "idade": 4,
+        "raca": "indefinada",
+        "peso": 3,
+        "tutor": "Angela",
+        "contato": "(81) 98570-1853",
+        "vacinado": true,
+        "servicos": "['banha', 'tosa', corta unha']"
+      },
+      {
+        "nome": "Pitoco",
+        "tipo": "cachorro",
+        "idade": 3,
+        "raca": "vira lata",
+        "peso": 6,
+        "tutor": "Eduardo",
+        "contato": "(81) 9859-9070",
+        "vacinado": true,
+        "servicos": []
+      }
+    ]
+  }
